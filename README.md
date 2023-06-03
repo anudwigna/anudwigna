@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @anudwigna
-- 👀 I’m interested in designing performant systems that serve today's need
-- 🌱 I’m a Graduate in AI
-- 📫 You can reach me through ANUDWIGNA[AT]GMAIL.COM
 
-<!---
-anudwigna/anudwigna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi !
+
+## 🖼️ About Me
+
+💐 I am Abhinandan Aryal, an **AI/ML Graduate** and an **Experienced Software Engineer**. 
+
+🧑‍🏫 Professionally, I specialize in **Full Stack Web Application Development**. As an AI / ML enthusiast, I am interested in **Deep Learning** and **NLP**
+
+
+
