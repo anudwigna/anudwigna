@@ -1,7 +1,5 @@
 
-# 👋 Hi !
-
-## 🖼️ About Me
+# 👋 Hi there !
 
 💐 I am Abhinandan Aryal, an **AI/ML Graduate** and an **Experienced Software Engineer**. 
 
