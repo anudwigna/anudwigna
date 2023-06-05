@@ -64,6 +64,18 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
+## 📝 Blog Posts
+- [Setting up Apache Airflow in Windows using WSL](https://abhinandanaryal.dev/article/setting-up-apache-airflow-in-windows-using-wsl)
+- [How to serve a static frontend from FastAPI application](https://abhinandanaryal.dev/article/how-to-serve-static-frontend-from-fastapi-application)
+- [Integrating VueJS in ASP.MVC Application](https://medium.com/p/d8be2e4bcc79)
+- [How to integrate wkhtmltopdf in .NET applications](https://abhinandanaryal.dev/article/how-to-integrate-wkhtmltopdf-in-dotnet-applications)
+
+## 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandanaryal/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3555425/abhinandan)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/aryalabhi)
+
+
 
 
 
