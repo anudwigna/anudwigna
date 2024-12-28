@@ -8,12 +8,6 @@
 🎸 Classic rock is a genre that I deeply admire and enjoy. Its captivating melodies fuel my creativity when I'm immersed in coding.
 
 
-## 🏅 Achievements
-- 👨‍💻 Participated and won the [UNCDF's Nepal Agritech Challenge](https://www.uncdf.org/finlab/nepal-agritech-challenge) for designing [Mizani](https://ariatech.com.np/mizani.html), a software that simplifies and expedites agriculture lending through digitization.
-
-- 👨‍💻 Participated in [Nepal Solveathon 2019](https://dataliteracy.github.io/solveathon/) and won award for [MunshiG](https://ariatech.com.np/minshig.html), an app designed to assist farmers in efficiently managing their business operations.
-
-
 ## 🛠️ Skills
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
